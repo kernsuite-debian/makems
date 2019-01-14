@@ -1,3 +1,12 @@
+Building and using the makems tool using Docker
+========================
+
+docker build -t makems .
+
+Then run it mounting in a volume where your parset is located to check whether it works
+
+docker run -it --rm -v [datapath]:/data makems /data/parset.cfg
+
 Building the makems tool
 ========================
 
@@ -6,7 +15,7 @@ Prerequisites: a subset of the MeqTrees stuff (cmake 2.6, blitz, etc.)
 The build, in a nutshell:
 
 $ cd $HOME 
-$ svn co svn://lofar9.astron.nl/var/svn/repos/trunk/makems  # or svn+ssh://
+$ git clone git@github.com:ska-sa/makems.git
 $ cd makems/LOFAR
 $ mkdir -p build/gnu_opt
 $ cd build/gnu_opt

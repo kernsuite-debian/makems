@@ -1,3 +1,13 @@
+makems (1.4.0-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * make 1.3.0-1kern3 release
+  * New upstream version 1.4.0
+  * make compat
+  * New upstream version 1.4.0
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 14 Jan 2019 15:39:49 +0200
+
 makems (1.3.0-1kern3) xenial; urgency=medium
 
   * update signature

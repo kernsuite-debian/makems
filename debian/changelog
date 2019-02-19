@@ -1,3 +1,10 @@
+makems (1.5.1-1) bionic; urgency=medium
+
+  [ Gijs Molenaar ]
+  * New upstream version 1.5.1
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 19 Feb 2019 14:33:27 +0100
+
 makems (1.4.0-1) bionic; urgency=medium
 
   [ Gijs Molenaar ]

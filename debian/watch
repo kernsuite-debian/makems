@@ -1,2 +1,2 @@
 version=3
-https://github.com/ska-sa/makems/releases /ska-sa/makems/archive/v(\d[\.\d]+).tar.gz
+https://github.com/ska-sa/makems/releases /ska-sa/makems/archive/v|(\d[\.\d]+).tar.gz

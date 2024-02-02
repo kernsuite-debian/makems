@@ -1,3 +1,11 @@
+makems (1.5.5-1kern1) jammy; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * New upstream version 1.5.5
+  * Build for jammy
+
+ -- KERN packaging <packaging@kernsuite.info>  Fri, 02 Feb 2024 19:17:44 +0000
+
 makems (1.5.4-1kern1) focal; urgency=medium
 
   [ Athanaseus Javas Ramaila ]

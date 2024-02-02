@@ -1,9 +1,9 @@
 Source: makems
 Section: science
 Priority: extra
-Maintainer: Gijs Molenaar <gijs@pythonic.nl>
-Build-Depends: debhelper (>= 9), cmake, casacore-dev (>= 3.0~), libboost-dev
-Standards-Version: 4.5.0
+Maintainer: KERN Suite <KERN packaging <packaging@kernsuite.info>
+Build-Depends: debhelper-compat (= 13), cmake, casacore-dev (>= 3.0~), libboost-dev
+Standards-Version: 4.6.2.0
 Homepage: https://github.com/ska-sa/makems
 
 Package: makems

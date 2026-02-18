@@ -1,3 +1,10 @@
+makems (1.5.6-1kern1) noble; urgency=medium
+
+  [ Athanaseus Javas Ramaila ]
+  * New upstream version 1.5.6
+
+ -- KERN packaging <packaging@kernsuite.info>  Wed, 18 Feb 2026 12:25:20 +0000
+
 makems (1.5.5-1kern1) jammy; urgency=medium
 
   [ Athanaseus Javas Ramaila ]
